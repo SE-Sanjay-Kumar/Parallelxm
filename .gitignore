@@ -1,0 +1,4 @@
+# Exclude compiled executables
+*.exe
+*.out
+*.o
