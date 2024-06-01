@@ -1,4 +1,3 @@
-# Exclude compiled executables
-*.exe
-*.out
-*.o
+**/*.exe
+**/*.out
+**/*.o
